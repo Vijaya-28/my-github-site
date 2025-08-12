@@ -26,9 +26,6 @@ Deploy a simple HTML website using **GitHub Pages**.
 
 ---
 
-## 🌐 Live Website
-[Click here to view my live site](https://github.com/Vijaya-28/my-github-site.git/)
-
 ---
 
 ## 🎨 Customization
