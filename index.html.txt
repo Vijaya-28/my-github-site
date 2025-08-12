@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Pages Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🚀 Welcome to My Website</h1>
+    <p>Hosted with ❤️ on GitHub Pages</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About This Site</h2>
+      <p>This is a simple static website created as part of my GitHub Pages deployment task.</p>
+    </section>
+
+    <section>
+      <h2>Features</h2>
+      <ul>
+        <li>Fast to load</li>
+        <li>Hosted for free</li>
+        <li>Easy to maintain</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 My GitHub Pages Site</p>
+  </footer>
+</body>
+</html>

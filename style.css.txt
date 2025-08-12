@@ -1,0 +1,43 @@
+/* General Page Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #ffecd2, #fcb69f);
+  color: #333;
+  text-align: center;
+}
+
+/* Header */
+header {
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-bottom: 2px solid #ccc;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+}
+
+section {
+  background-color: rgba(255, 255, 255, 0.85);
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 600px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  padding: 15px;
+  font-size: 0.9em;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-top: 2px solid #ccc;
+}
